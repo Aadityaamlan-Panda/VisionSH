@@ -1,0 +1,6 @@
+Pillow
+tk
+azure-cognitiveservices-vision-computervision
+msrest
+cohere
+reportlab
